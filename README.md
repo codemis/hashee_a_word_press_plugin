@@ -6,7 +6,7 @@ Hashee is a Google Map and Twitter API mashup designed to geographically display
 
 ## Installation
 1. Download or clone this Github repo.
-2. Upload this folder into the Word Press Site in wp-content/plugins directory
+2. Upload this folder into the Word Press Site in wp-content/plugins directory, and rename it __hashee__
 3. Login to your Word Press admin area, and click on the "Plugins" link in the left navigation
 4. Find Hashee in the list of plugins, and click activate
 
