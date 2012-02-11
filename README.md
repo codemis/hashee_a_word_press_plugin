@@ -26,6 +26,6 @@ There are several options you can set on this tag.  Here they are:
 * refresh_rate (default: 2000) - The number of seconds between pulling of the tweets.
 * max_pins (default: 10) - The max number of pins to display every time it pulls the tweets
 ## Development
-Questions or problems? Please post them on the [issue tracker](https://github.com/codemis/api_key_maker/issues). You can contribute changes by forking the project and submitting a pull request. You can ensure the tests passing by running `bundle` and `rake`.
+Questions or problems? Please post them on the [issue tracker](https://github.com/codemis/hashee_a_word_press_plugin/issues). You can contribute changes by forking the project and submitting a pull request. You can ensure the tests passing by running `bundle` and `rake`.
 
 This plugin is created by Johnathan Pulos and is under the MIT License.
