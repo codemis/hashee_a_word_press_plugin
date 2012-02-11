@@ -1,0 +1,17 @@
+div.single-tweet {
+     width: 560px;
+     display: block;
+     padding: 10px;
+     clear: both;
+ }
+ div#hashee-tweet-list {
+     height: 400px;
+     width: 580px;
+		 padding: 0px 10px;
+     overflow: scroll;
+     overflow-x: hidden;
+ }
+div#hashee-map {
+	width: 600px; 
+	height: 400px;
+}
